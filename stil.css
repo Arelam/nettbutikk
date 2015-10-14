@@ -7,8 +7,12 @@ body{
 	
 #logo{
 	float: left;
-	height:400px;
 	width:45%;
+}
+
+.border {
+	border:3px solid;
+	margin:5px;
 }
 
 #box{
@@ -19,9 +23,8 @@ body{
 	margin:5px;
 }
 
-#header{
-	float:left;
-	width:100%;
+header{
+	width:95%;
 	height: 200px;
 }
 
