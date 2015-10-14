@@ -1,0 +1,36 @@
+body{
+	font-family:times new roman;
+	 margin:auto;
+	 margin:auto;
+	 background-color:#EFEEEC;
+	 
+	 }
+	 
+#logo
+{
+	
+	float: left;
+}
+#box{
+	float:left;
+	width:1200px;
+	padding:12px;
+	border:3px solid;
+	margin:5px;
+
+}
+.klesplagg
+{
+	float:left;
+	width:1000px;
+	padding:12px;
+	border:3px solid;
+	margin:5px;
+
+}
+h1 {
+  font-size:50px;
+  line-height:55px;
+  padding:25px 0;
+  text-color:green:
+  }
