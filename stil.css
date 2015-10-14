@@ -98,10 +98,16 @@ a{
 	margin:5px;
 }
 
-h1 {
-  font-size:50px;
-  line-height:55px;
-  padding:25px 0;
-  color:green;
-  }
-  
+#rundtoss{
+	clear:both;
+	width:60%;
+	margin:15%;
+}
+
+.oss{
+	border:black solid 1px;
+	width:auto;
+	float:left;
+	margin: 4px;
+	text-align:center;
+}
